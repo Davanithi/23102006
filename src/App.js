@@ -2,7 +2,7 @@ import MyCounter from './Counter'
 //import {Add} from './Math'
 import First from './First'
 import {Routes,Route} from 'react-router-dom'
-import Navbar from 'Navbar'
+// import Navbar from 'Navbar'
 function App(){
   return(
     <>
